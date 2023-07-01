@@ -19,7 +19,7 @@ Hey everyone! My name is MAHDI, and I'm currently working as Offensive CyberSecu
 [instagram]: https://instagram.com/elmahdi_benrais
 [linkedin]: https://www.linkedin.com/in/elmahdibenrais/
 [email]: mailto:elmahdibenrs@gmail.com
-[blog]: https://soon.com/
+[blog]: https://elmahdibenrais.github.io/
 
 <p align="left">
   <img width="39%" src="https://i.kym-cdn.com/photos/images/original/001/209/715/032.png" alt="Hack All The Things" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
