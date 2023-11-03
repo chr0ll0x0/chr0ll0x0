@@ -1,6 +1,6 @@
 ### Hi there, I'm [Chr0ll0)] 👋
 
-Hey everyone! My name is Mahdi, and I'm currently working as an Offensive Cybersecurity Consultant/Penetration Tester, performing security tests ranging from Network penetration tests, Web applications evaluation, social engineering and physical engagements.
+Hey everyone! My name is Mahdi, and I'm currently working as an Penetration Tester, performing security tests ranging from Network penetration tests, Web applications evaluation, social engineering and physical engagements.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chr0ll0x0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=chr0ll0x0)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chr0ll0x0&show_icons=true&theme=radical" width="380">
