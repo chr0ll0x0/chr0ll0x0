@@ -1,12 +1,11 @@
 ### Hi there, I'm [Chr0ll0)] 👋
 
-Hey everyone! My name is Mahdi, and I'm currently working as a Penetration Tester, performing security tests ranging from Network penetration tests, Web applications evaluation, social engineering and physical engagements.
-
+Hey everyone! My name is Mahdi i've OSCP & CRTP, I'm currently working as a Penetration Tester, performing security tests ranging from Host penetration tests, Web applications evaluation.
 [![Twitter Follow](https://img.shields.io/twitter/follow/chr0ll0x0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=chr0ll0x0)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chr0ll0x0&show_icons=true&theme=radical" width="380">
 
-🐞 I'm an Occassional Bug Bounty Hunter.<br/>
-📖 I’m Learning Web3, Smart Contracts and BlockChains Hacking.<br/>
+🐞 I'm an Occassional Pentester => Bug Bounty Hunter.<br/>
+📖 I’m Learning from CTF, Hackthebox and CTF time.<br/>
 📖 I’m Constently reading Bug Bounty reports from other researchers.<br/>
 👯 I’m looking to collaborate on Bug Bounty and collaborative learning.<br/>
 ⚡️ Fun Fact: I love Coffee as much as i love Hacking #HackTheWorld<br/>
@@ -15,7 +14,7 @@ Hey everyone! My name is Mahdi, and I'm currently working as a Penetration Teste
 
 
 [twitter]: https://twitter.com/chr0ll0x0
-[instagram]: https://instagram.com/h4ck0004
+[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/elmahdibenrais/
 [email]: mailto:x@gmail.com
 [blog]: https://chr0ll0x0.github.io/
